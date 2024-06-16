@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/web-102-prework2024-W3oi660' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,7 +34,9 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+When I got certain secret keys incorrect, it started from the beginning and it was
+a bit tedious starting from the beginning again. The challenges towards the end, 
+5-7 were definitely harder compared to the rest. 
 
 ## License
 
