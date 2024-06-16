@@ -106,7 +106,6 @@ function filterUnfundedOnly() {
 
     // use the function we previously created to add the unfunded games to the DOM
     addGamesToPage(unfundedGames);
-
 }
 
 // show only games that are fully funded
